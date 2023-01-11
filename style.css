@@ -1,0 +1,13 @@
+#display{
+    max-width: 30vw;
+    margin:auto;
+    border:2px solid black
+}
+.table{
+    max-width: 26vw;
+    margin:auto;
+}
+.btn{
+    width:40px;
+    border:2px solid black !important;
+}
